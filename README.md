@@ -64,7 +64,7 @@
 
 ## Файл проекта
 
-- [`Final-learning-project_Kazanskaya_E.ipynb`](Final-learning-project_Kazanskaya_E.ipynb) — ноутбук с кодом, анализом, визуализациями и выводами.
+- [`Final-learning-project_Kazanskaya_E_D.ipynb`](Final-learning-project_Kazanskaya_E_D.ipynb) — ноутбук с кодом, анализом, визуализациями и выводами.
 
 ## Статус
 
